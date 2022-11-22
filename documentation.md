@@ -244,22 +244,35 @@ My favorites, these are instructions created only to disrupt and/or obfuscate th
 Ranging from mildly annoying to totally debilitating, once inserted into your code it will be difficult for anyone (including you) to understand what's going on afterwards.  
 While silly, they can be used to create some complex weird code (I guess).
 
-+ **pound sand**
++ **pound sand**  
+print "pounding sand\n" and sleep 1 second
 
-+ **kick rocks**
++ **kick rocks**  
+print "kicking rocks\n" and sleep an amount of second equal to the value in `RL`
 
-+ **eat paper**
++ **eat paper**  
+print "eating paper\n", "mhh, tasty\n" and "nom nom nom\n" and also sleep for a random time (a while)
 
-+ **i'm faster and stronger than you**
++ **i'm faster and stronger than you**  
+add to every register and element of `BT` the value stored in `RL`
 
-+ **you're going in my cringe compilation**
++ **you're going in my cringe compilation**  
+invert the order of the elements in the stack
 
-+ **not funny didn't laugh**
++ **not funny didn't laugh**  
+invert the values of all the values in the registers and in `BT`
 
-+ **you're allergic to sunlight**
++ **you're allergic to sunlight**  
+set to `1` any value everywhere
 
-+ **terminally online**
++ **terminally online**  
+delete any value everywhere
 
-+ **full time Discord mod**
++ **full time Discord mod**  
+if `RJ == false` delete every value greater than 17, otherwise delete every value greater than 14 everywhere
 
-+ **full time Reddit mod**
++ **full time Reddit mod**  
+set every value in registers and `BT` to `69` or `420`, accordingt to which is the closest one
+
++ **go off i guess**  
+change the source code, inserting annoying trollops and nopeops
