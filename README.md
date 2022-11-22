@@ -6,6 +6,6 @@ which mock the typical conversations between terminally online Twitter users by 
 With this little joke of a language, complete with a full documentation, you will be able to write a simple program using
 only silly insults and buzzwords.
 
-As it is a language based on virtual taunts and mochery, it may be somewhat offensive to some, so take this as a disclaimer.
+As it is a language based on virtual taunts and mockery, it may be somewhat offensive to some, so take this as a disclaimer.
 
 Have fun!
